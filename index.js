@@ -1,4 +1,5 @@
 // Link bài tập: https://docs.google.com/document/d/1dOKBt0epsxVNdcXwuHWlZrerUVuudlpXFFUrp2FxsXY/mobilebasic 
+// Link nộp bài tập: https://docs.google.com/spreadsheets/d/12GjDTtAaGKTfuXxNoHy8uiWJUfbHRSpJpH42cIGE5iY/edit#gid=0
 
 // Câu 21: Tính tổng các số trong mảng?
 
